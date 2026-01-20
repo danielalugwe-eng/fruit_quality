@@ -1,0 +1,28 @@
+# Ignore datasets and models
+data/
+dataset/
+datasets/
+models/
+*.pth
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# System
+.DS_Store

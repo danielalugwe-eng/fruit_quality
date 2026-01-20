@@ -1,0 +1,9 @@
+# Ignore data and large files
+data/
+models/
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.env
+.DS_Store
