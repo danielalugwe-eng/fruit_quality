@@ -64,7 +64,7 @@ fruit-vision/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/username/fruit-vision.git
+git clone https://github.com/danielalugwe-eng/fruit-vision.git
 cd fruit-vision
 ```
 
@@ -202,3 +202,4 @@ docker run -p 8000:8000 fruit-vision-api
 * [PyTorch MobileNetV2 Documentation](https://pytorch.org/vision/stable/models.html)
 * [ONNX Runtime](https://onnxruntime.ai/)
 * [FastAPI](https://fastapi.tiangolo.com/)
+
